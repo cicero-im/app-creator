@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@llamaindex/core": "^0.2.0",
+    "@llamaindex/core": "^0.6.22",
     "llamaindex": "^0.6.0",
     "zod": "^3.23.8",
     "zod-to-json-schema": "^3.23.3"
